@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\CS311_Project3_DCC\bin\Debug\net7.0-windows\CS311_Project3_DCC.exe
+C:\Users\danie\source\repos\CS311_Project3_DCC\bin\Debug\net7.0-windows\CS311_Project3_DCC.deps.json
+C:\Users\danie\source\repos\CS311_Project3_DCC\bin\Debug\net7.0-windows\CS311_Project3_DCC.runtimeconfig.json
+C:\Users\danie\source\repos\CS311_Project3_DCC\bin\Debug\net7.0-windows\CS311_Project3_DCC.dll
+C:\Users\danie\source\repos\CS311_Project3_DCC\bin\Debug\net7.0-windows\CS311_Project3_DCC.pdb
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.frmMain.resources
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.Properties.Resources.resources
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.AssemblyInfo.cs
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.dll
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\refint\CS311_Project3_DCC.dll
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.pdb
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\CS311_Project3_DCC.genruntimeconfig.cache
+C:\Users\danie\source\repos\CS311_Project3_DCC\obj\Debug\net7.0-windows\ref\CS311_Project3_DCC.dll
